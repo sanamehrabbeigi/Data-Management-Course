@@ -7,3 +7,5 @@ Session 6: PHP and HTML
 Assignment 6: PHP and HTML
 
 Assignment 7: MongoDB and MySQL
+
+Assignment 8: Python
