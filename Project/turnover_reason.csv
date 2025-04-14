@@ -1,0 +1,8 @@
+reason_id,reason_label,reason_category
+1,Career Change,Voluntary
+2,Burnout,Voluntary
+3,Relocation,Voluntary
+4,Layoff,Involuntary
+5,Performance Issue,Involuntary
+6,Retirement,Voluntary
+7,End of Internship,Other
